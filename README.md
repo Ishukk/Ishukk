@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ishukk 
+# Hi there! 👋 I'm Ishwar (aka Ishukk)
 
 👀 **I'm passionate about Coding and Web Technologies!**
 
@@ -16,8 +16,9 @@
 
 - **Languages:** JavaScript, TypeScript, HTML, CSS
 - **Frameworks & Libraries:** React, Node.js, Express.js, Tailwind CSS, Bootstrap
-- **Databases:** MongoDB, PostgreSQL, Prisma ORM, Sequelize ORM, Redis-Cache
-- **Tools:** Git, GitHub, Gitlab, Docker, WebSocket, Apollo Server, Jira
+- **Databases:** MongoDB, PostgreSQL, Prisma ORM, Sequelize ORM, Redis Cache
+- **Tools:** Git, GitHub, GitLab, Docker, WebSocket, Apollo Server, Jira
+- **And there's always more to explore and add to my profile!**
 
 ---
 
