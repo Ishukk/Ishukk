@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ishwar (aka Ishukk)
 
-👀 **I'm passionate about Coding and Web Technologies!**
+👀 **I'm passionate about Coding and Technologies!**
 
 ---
 
