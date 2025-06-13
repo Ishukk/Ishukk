@@ -56,10 +56,3 @@ Let’s build something awesome together! 🚀
 _P.S. If you’re working on something exciting — I’d love to hear about it!_
 
 ---
-
-## 📊 GitHub Stats (optional)
-
-![Ishwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishukk&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishukk&layout=compact&theme=radical)
-
----
